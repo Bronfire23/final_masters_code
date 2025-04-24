@@ -1,7 +1,7 @@
 #####################File info#####################
 # Code that stores logic for Parallel expectation maximisation model (univariate).
 
-# The functions stored is:
+# The functions created is:
 #     1. calculate_global_statistics 
 #     2. GMM_using_parallel
 

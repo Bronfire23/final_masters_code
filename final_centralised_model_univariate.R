@@ -1,6 +1,6 @@
 #####################File info#####################
 # Code that stores the logic and functions for univariate centralised model
-# The functions stored is:
+# The functions created is:
 #     1. calculate_data_belongings (unnecessary can use all_models_use.R)
 #     2. estimate_parameters_with_full_data
 #     3. centralised_model

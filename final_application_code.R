@@ -1,6 +1,6 @@
 #####################File info#####################
 # Code that stores the logic for the application section in dissertation
-# The functions stored is:
+# The functions created is:
 #     1. run_and_measure_IEM
 #     2. run_and_measure_parallel
 #     3. run_and_measure_centralised

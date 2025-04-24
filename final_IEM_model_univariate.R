@@ -1,7 +1,7 @@
 #####################File info#####################
 # Code that stores logic for Incremental expectation maximisation model (univariate).
 
-# The functions stored is:
+# The functions created is:
 #     1. update_univariate_global_statistics 
 #     2. iem_distributed_model
 

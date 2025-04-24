@@ -1,6 +1,6 @@
 #####################File info#####################
 # Code that stores all functions used by all models.
-# The functions stored is:
+# The functions created is:
 #     1. calculate_data_belongings
 #     2. calculate_node_local_sufficient_statistics
 #     3. estimate_parameters_with_sufficient_statistics

@@ -2,7 +2,7 @@
 # Code that stores the logic for data generation (both univariate and multivariate).
 # Code for both generating data and plotting data
 
-# The functions stored is:
+# The functions created is:
 #     1. generate_univariate_mixture_gaussian_data
 #     2. plot_univariate_gaussian_data
 #     3. plot_gmm_predictions

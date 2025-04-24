@@ -1,3 +1,11 @@
+#####################File info#####################
+# Code that stores logic for simulation (univariate).
+
+# The functions created is:
+#     1. run_and_measure_IEM 
+#     2. run_and_measure_parallel
+#     3. run_and_measure_centralised
+
 # Compare models 
 file_path <- '/Users/bronwynmccall/Documents/GitHub/final_masters_code/'
 source(paste(file_path, 'final_IEM_model_univariate.R', sep = ""))
