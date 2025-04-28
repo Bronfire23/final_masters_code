@@ -3,7 +3,7 @@
 # results of the multivariate model.
 
 # libraries
-file_path <- '/Users/bronwynmccall/Documents/GitHub/final_masters_code/'
+file_path <- '>>files location on your computer<<'
 source(paste(file_path, 'final_data_generation.R', sep = ""))
 source(paste(file_path, 'final_all_models_use.R', sep = ""))
 source(paste(file_path, 'final_IEM_model_multivariate.R', sep = ""))
