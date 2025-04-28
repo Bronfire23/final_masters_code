@@ -7,7 +7,7 @@
 #     3. run_and_measure_centralised
 
 # Compare models 
-file_path <- '/Users/bronwynmccall/Documents/GitHub/final_masters_code/'
+file_path <- '>>files location on your computer<<'
 source(paste(file_path, 'final_IEM_model_univariate.R', sep = ""))
 source(paste(file_path, 'final_parallel_model_univariate.R', sep = ""))
 source(paste(file_path, 'final_centralised_model_univariate.R', sep = ""))
