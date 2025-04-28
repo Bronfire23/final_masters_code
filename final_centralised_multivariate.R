@@ -5,7 +5,7 @@
 #     1. estimate_parameters_with_full_data_multivariate
 #     2. MGMM_using_centralised
 
-file_path <- '/Users/bronwynmccall/Documents/GitHub/final_masters_code/'
+file_path <- '>>files location on your computer<<'
 source(paste(file_path, 'final_data_generation.R', sep = ""))
 source(paste(file_path, 'final_all_models_use.R', sep = ""))
 library(mvtnorm)
