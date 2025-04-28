@@ -6,7 +6,7 @@
 #     2. MGMM_using_parallel
 
 # libraries
-file_path <- '/Users/bronwynmccall/Documents/GitHub/final_masters_code/'
+file_path <- '>>files location on your computer<<'
 source(paste(file_path, 'final_all_models_use.R', sep = ""))
 library(parallel)
 
