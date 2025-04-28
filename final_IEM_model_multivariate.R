@@ -4,7 +4,7 @@
 # The functions created is:
 #     1. update_multivariate_global_statistics
 #     2. MGMM_using_IEM
-file_path <- '/Users/bronwynmccall/Documents/GitHub/final_masters_code/'
+file_path <- '>>files location on your computer<<'
 source(paste(file_path, 'final_all_models_use.R', sep = ""))
 
 update_multivariate_global_statistics <- function(global_statistics_old,
