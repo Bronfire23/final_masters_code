@@ -4,7 +4,7 @@
 #     1. calculate_data_belongings (unnecessary can use all_models_use.R)
 #     2. estimate_parameters_with_full_data
 #     3. centralised_model
-file_path <- '/Users/bronwynmccall/Documents/GitHub/final_masters_code/'
+file_path <- '>>files location on your computer<<'
 source(paste(file_path, 'final_data_generation.R', sep = ""))
 source(paste(file_path, 'final_all_models_use.R', sep = ""))
 
